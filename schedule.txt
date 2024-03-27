@@ -1,0 +1,118 @@
+--------------------          National Basketball Association           --------------------
+
+01. [        Indiana Pacers        ] vs [       Toronto Raptors        ] : Q1, QuarterTotal - o, QuarterML - o, Halftime - o(home@1.45) swap-False
+
+02. [       New York Knicks        ] vs [       Detroit Pistons        ] : Q1, QuarterTotal - o, QuarterML - o, Halftime - x swap-False
+
+03. [      Memphis Grizzlies       ] vs [        Brooklyn Nets         ] : Q1, QuarterTotal - o, QuarterML - o, Halftime - x swap-False
+
+--------------------      National Collegiate Athletic Association      --------------------
+
+01. [ Delaware Fightin` Blue Hens  ] vs [        Drexel Dragons        ] : Q1, QuarterTotal - x, QuarterML - x, Halftime - x swap-False
+
+02. [    Kansas State Wildcats     ] vs [  West Virginia Mountaineers  ] : Q1, QuarterTotal - x, QuarterML - x, Halftime - o(home@1.16) swap-False
+
+03. [   North Carolina Tar Heels   ] vs [   Miami-Florida Hurricanes   ] : Q1, QuarterTotal - x, QuarterML - x, Halftime - x swap-False
+
+04. [       Benedict Tigers        ] vs [    Clark Atlanta Panthers    ] : Q1, QuarterTotal - x, QuarterML - x, Halftime - x swap-False
+
+05. [    Savannah State Tigers     ] vs [  Fort Valley State Wildcats  ] : Q1, QuarterTotal - x, QuarterML - x, Halftime - x swap-False
+
+06. [  Kentucky State Thorobreds   ] vs [    Tuskegee Golden Tigers    ] : Q1, QuarterTotal - x, QuarterML - x, Halftime - x swap-False
+
+07. [  Colorado Christian Cougars  ] vs [  Colorado Mines Orediggers   ] : Q1, QuarterTotal - x, QuarterML - x, Halftime - x swap-False
+
+08. [      NC Central Eagles       ] vs [    Delaware State Hornets    ] : Q1, QuarterTotal - x, QuarterML - x, Halftime - o(home@1.44) swap-False
+
+09. [         Howard Bison         ] vs [     Coppin State Eagles      ] : Q1, QuarterTotal - x, QuarterML - x, Halftime - o(home@1.08) swap-False
+
+10. [South Carolina State Bulldogs ] vs [ Maryland Eastern Shore Hawks ] : Q1, QuarterTotal - x, QuarterML - x, Halftime - o(home@1.23) swap-False
+
+11. [      Morgan State Bears      ] vs [    Norfolk State Spartans    ] : Q1, QuarterTotal - x, QuarterML - x, Halftime - x swap-False
+
+12. [   Nicholls State Colonels    ] vs [   Incarnate Word Cardinals   ] : Q1, QuarterTotal - x, QuarterML - x, Halftime - o(home@1.21) swap-False
+
+13. [     Edward Waters Tigers     ] vs [   Albany State Golden Rams   ] : Q1, QuarterTotal - x, QuarterML - x, Halftime - x swap-False
+
+14. [   Bethune-Cookman Wildcats   ] vs [    Alabama State Hornets     ] : Q1, QuarterTotal - x, QuarterML - x, Halftime - x swap-False
+
+15. [   Central State Marauders    ] vs [     Spring Hill Badgers      ] : Q1, QuarterTotal - x, QuarterML - x, Halftime - x swap-False
+
+16. [   Houston Baptist Huskies    ] vs [Texas A&M-Corpus Christi Islanders] : Q1, QuarterTotal - x, QuarterML - x, Halftime - x swap-False
+
+17. [       Lamar Cardinals        ] vs [        McNeese State         ] : Q1, QuarterTotal - x, QuarterML - x, Halftime - o(away@1.23) swap-False
+
+18. [     Florida A&M Rattlers     ] vs [     Alabama A&M Bulldogs     ] : Q1, QuarterTotal - x, QuarterML - x, Halftime - x swap-False
+
+19. [         Lane Dragons         ] vs [      Miles Golden Bears      ] : Q1, QuarterTotal - x, QuarterML - x, Halftime - x swap-False
+
+20. [  Mississippi Valley Devils   ] vs [  Prairie View A&M Panthers   ] : Q1, QuarterTotal - x, QuarterML - x, Halftime - x swap-False
+
+21. [   Campbell Fighting Camels   ] vs [North Carolina Wilmington Seahawks] : Q1, QuarterTotal - x, QuarterML - x, Halftime - o(away@1.23) swap-False
+
+22. [Arkansas-Pine Bluff Golden Lions] vs [    Texas Southern Tigers     ] : Q1, QuarterTotal - x, QuarterML - x, Halftime - o(away@1.55) swap-False
+
+23. [       TCU Horned Frogs       ] vs [         Baylor Bears         ] : Q1, QuarterTotal - x, QuarterML - x, Halftime - x swap-False
+
+24. [      Villanova Wildcats      ] vs [       Georgetown Hoyas       ] : Q1, QuarterTotal - x, QuarterML - x, Halftime - o(home@1.03) swap-False
+
+25. [         Ohio Bobcats         ] vs [          Akron Zips          ] : Q1, QuarterTotal - x, QuarterML - x, Halftime - x swap-False
+
+26. [        Toledo Rockets        ] vs [  Northern Illinois Huskies   ] : Q1, QuarterTotal - x, QuarterML - x, Halftime - o(home@1.05) swap-False
+
+27. [  Mississippi State Bulldogs  ] vs [      Kentucky Wildcats       ] : Q1, QuarterTotal - x, QuarterML - x, Halftime - x swap-False
+
+28. [       Indiana Hoosiers       ] vs [      Wisconsin Badgers       ] : Q1, QuarterTotal - x, QuarterML - x, Halftime - o(away@1.53) swap-False
+
+29. [       Syracuse Orange        ] vs [     Virginia Tech Hokies     ] : Q1, QuarterTotal - x, QuarterML - x, Halftime - x swap-False
+
+30. [    Bowling Green Falcons     ] vs [     Miami Ohio Redhawks      ] : Q1, QuarterTotal - x, QuarterML - x, Halftime - x swap-False
+
+31. [       Houston Cougars        ] vs [     Cincinnati Bearcats      ] : Q1, QuarterTotal - x, QuarterML - x, Halftime - o(home@1.07) swap-False
+
+32. [  Central Michigan Chippewas  ] vs [     Ball State Cardinals     ] : Q1, QuarterTotal - x, QuarterML - x, Halftime - o(home@1.58) swap-False
+
+33. [   Eastern Michigan Eagles    ] vs [   Western Michigan Broncos   ] : Q1, QuarterTotal - x, QuarterML - x, Halftime - x swap-False
+
+34. [        Dayton Flyers         ] vs [      Davidson Wildcats       ] : Q1, QuarterTotal - x, QuarterML - x, Halftime - o(home@1.16) swap-False
+
+35. [    St Bonaventure Bonnies    ] vs [       Chicago Ramblers       ] : Q1, QuarterTotal - x, QuarterML - x, Halftime - o(home@1.54) swap-False
+
+36. [        Clemson Tigers        ] vs [     Pittsburgh Panthers      ] : Q1, QuarterTotal - x, QuarterML - x, Halftime - o(home@1.3) swap-False
+
+37. [  Kent State Golden Flashes   ] vs [        Buffalo Bulls         ] : Q1, QuarterTotal - x, QuarterML - x, Halftime - o(home@1.04) swap-False
+
+38. [         Fordham Rams         ] vs [    George Mason Patriots     ] : Q1, QuarterTotal - x, QuarterML - x, Halftime - x swap-False
+
+39. [          LSU Tigers          ] vs [       Georgia Bulldogs       ] : Q1, QuarterTotal - x, QuarterML - x, Halftime - o(home@1.58) swap-False
+
+40. [ George Washington Colonials  ] vs [   Massachusetts Minutemen    ] : Q1, QuarterTotal - x, QuarterML - x, Halftime - x swap-False
+
+41. [    Northern Iowa Panthers    ] vs [     Valparaiso Crusaders     ] : Q1, QuarterTotal - x, QuarterML - x, Halftime - o(home@1.05) swap-False
+
+42. [     Texas State Bobcats      ] vs [  Louisiana Monroe Warhawks   ] : Q1, QuarterTotal - x, QuarterML - x, Halftime - o(home@1.44) swap-False
+
+43. [       Kansas Jayhawks        ] vs [    Brigham Young Cougars     ] : Q1, QuarterTotal - x, QuarterML - x, Halftime - o(home@1.32) swap-False
+
+44. [  Eastern Illinois Panthers   ] vs [   SIU Edwardsville Cougars   ] : Q1, QuarterTotal - x, QuarterML - x, Halftime - x swap-False
+
+45. [   Florida State Seminoles    ] vs [North Carolina State Wolfpack ] : Q1, QuarterTotal - x, QuarterML - x, Halftime - x swap-False
+
+46. [        Iowa Hawkeyes         ] vs [   Penn State Nittany Lions   ] : Q1, QuarterTotal - x, QuarterML - x, Halftime - o(home@1.29) swap-False
+
+47. [       Wyoming Cowboys        ] vs [      UNLV Runnin Rebels      ] : Q1, QuarterTotal - x, QuarterML - x, Halftime - o(away@1.42) swap-False
+
+48. [    Texas Tech Red Raiders    ] vs [       Texas Longhorns        ] : Q1, QuarterTotal - x, QuarterML - x, Halftime - o(home@1.51) swap-False
+
+49. [  Notre Dame Fighting Irish   ] vs [  Wake Forest Demon Deacons   ] : Q1, QuarterTotal - x, QuarterML - x, Halftime - o(away@1.34) swap-False
+
+50. [     Arkansas Razorbacks      ] vs [    Vanderbilt Commodores     ] : Q1, QuarterTotal - x, QuarterML - x, Halftime - x swap-False
+
+51. [      Air Force Falcons       ] vs [     Boise State Broncos      ] : Q1, QuarterTotal - x, QuarterML - x, Halftime - o(away@1.19) swap-False
+
+52. [      Fresno St Bulldogs      ] vs [      Utah State Aggies       ] : Q1, QuarterTotal - x, QuarterML - x, Halftime - o(away@1.15) swap-False
+
+53. [     Colorado State Rams      ] vs [       Nevada Wolf Pack       ] : Q1, QuarterTotal - x, QuarterML - x, Halftime - x swap-False
+
+54. [    San Diego State Aztecs    ] vs [   San Jose State Spartans    ] : Q1, QuarterTotal - x, QuarterML - x, Halftime - o(home@1.01) swap-False
+

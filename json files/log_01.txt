@@ -1,0 +1,78 @@
+        "1210425526036996097": {
+            "league": "National Basketball Association",
+            "short_name": "NBA",
+            "algo": "QuarterML",
+            "createdAt": "2024/02/23, 08:42:57"
+        },
+        "1210386603990581249": {
+            "league": "National Basketball Association",
+            "short_name": "NBA",
+            "algo": "QuarterML",
+            "createdAt": "2024/02/23, 08:44:14"
+        },
+        "1210386934141026315": {
+            "league": "National Basketball Association",
+            "short_name": "NBA",
+            "algo": "QuarterML",
+            "createdAt": "2024/02/23, 08:45:33"
+        },
+        "1210392617049923634": {
+            "league": "National Basketball Association",
+            "short_name": "NBA",
+            "algo": "QuarterML",
+            "createdAt": "2024/02/23, 09:08:08"
+        },
+        "1210393960640417882": {
+            "league": "National Basketball Association",
+            "short_name": "NBA",
+            "algo": "QuarterML",
+            "createdAt": "2024/02/23, 09:13:28"
+        },
+        "1210396533141413909": {
+            "league": "National Basketball Association",
+            "short_name": "NBA",
+            "algo": "QuarterML",
+            "createdAt": "2024/02/23, 09:23:41"
+        },
+        "1210396684019040326": {
+            "league": "National Basketball Association",
+            "short_name": "NBA",
+            "algo": "QuarterML",
+            "createdAt": "2024/02/23, 09:24:17"
+        },
+        "1210400785763012708": {
+            "league": "National Basketball Association",
+            "short_name": "NBA",
+            "algo": "QuarterML",
+            "createdAt": "2024/02/23, 09:40:35"
+        },
+        "1210400893527396352": {
+            "league": "National Basketball Association",
+            "short_name": "NBA",
+            "algo": "QuarterML",
+            "createdAt": "2024/02/23, 09:41:01"
+        },
+        "1210404084465672232": {
+            "league": "National Basketball Association",
+            "short_name": "NBA",
+            "algo": "QuarterML",
+            "createdAt": "2024/02/23, 09:53:42"
+        },
+        "1210406734221287495": {
+            "league": "National Basketball Association",
+            "short_name": "NBA",
+            "algo": "QuarterML",
+            "createdAt": "2024/02/23, 10:04:14"
+        },
+        "1210425599634575420": {
+            "league": "National Basketball Association",
+            "short_name": "NBA",
+            "algo": "QuarterML",
+            "createdAt": "2024/02/23, 11:19:11"
+        },
+        "1210436235852775445": {
+            "league": "National Basketball Association",
+            "short_name": "NBA",
+            "algo": "QuarterML",
+            "createdAt": "2024/02/23, 12:01:27"
+        }
